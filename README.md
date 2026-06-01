@@ -25,17 +25,19 @@ I am an Information Technology student who loves bridging the gap between robust
 
 ### 📂 Featured Projects
 
-*   **[My Portfolio](https://github.com/emanimtiazbutt-ops/my-portfolio)** - A personal developer portfolio website designed to showcase my academic projects and technical progress.
-*   **Python GUI Calculator** - A feature-rich desktop calculator application developed to practice clean Graphical User Interface creation and event handling in Python.
-*   **University Management System Database** - A complete SQL database schema engineered with custom structural constraints to model students, teachers, and campus logistics.
+- 🚀 **[My Portfolio](https://github.com/emanimtiazbutt-ops/my-portfolio)** - A personal developer portfolio website designed to showcase my academic projects and technical progress.
+- 🧮 **Python GUI Calculator** - A feature-rich desktop calculator application developed to practice clean Graphical User Interface creation and event handling in Python.
+- 🗄️ **University Management System Database** - A complete SQL database schema engineered with custom structural constraints to model students, teachers, and campus logistics.
 
 ---
 
 ### 📈 GitHub Analytics
+
 ![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanimtiazbutt-ops&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
 ### 🤝 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/eman-imtiaz-butt) *(www.linkedin.com/in/eman-imtiaz-butt)*
-- 📧 Email: *(emanimtiazbutt@gmail.com)*
+
+- 💼 **[LinkedIn](https://www.linkedin.com/in/eman-imtiaz-butt)**
+- 📧 **Email:** emanimtiazbutt@gmail.com
