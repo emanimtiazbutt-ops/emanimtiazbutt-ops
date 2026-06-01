@@ -37,5 +37,5 @@ I am an Information Technology student who loves bridging the gap between robust
 ---
 
 ### 🤝 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/eman-imtiaz-butt) *(Add your custom profile link here!)*
+- 💼 [LinkedIn](www.linkedin.com/in/eman-imtiaz-butt) *(www.linkedin.com/in/eman-imtiaz-butt)*
 - 📧 Email: *(emanimtiazbutt@gmail.com)*
