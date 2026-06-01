@@ -8,7 +8,7 @@ I am an Information Technology student who loves bridging the gap between robust
 - 🎓 **Education:** Pursuing a Bachelor of Science in Information Technology (BSIT) at Government College Women University, Sialkot.
 - 🛠️ **Current Focus:** Deepening my expertise in full-stack web development with **Python**, **Django**, and **React JS**.
 - 📚 **Academic Interests:** Passionate about operating systems, relational database administration, and computing theory (Automata & Turing machines).
-- 🎨 **Creative Outlets:** Outside of traditional software, I experiment with 3D modeling and character animation workflows in **Blender**, and run a small creative crochet business called **LoopieLove**!
+- 🎨 **Creative Outlets:** Outside of traditional software, I experiment with 3D modeling and character animation workflows in **Blender**!
 
 ---
 
