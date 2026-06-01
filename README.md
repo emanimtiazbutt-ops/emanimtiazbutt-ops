@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am an Information Technology student focused on 
 
 ### 🛠️ Tech Stack & Tools
 - **Programming Languages:** Python, SQL, HTML5, CSS3, JavaScript
-- **Frameworks & Frameworks:** Django, React JS
+- **Frameworks & Libraries:** Django, React JS
 - **Design & 3D Software:** Blender, Figma
 - **Database Management:** Relational Databases & SQL Schema Design
 
